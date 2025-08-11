@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Amaka Cart App',
-  description: 'Created with v0',
+  description: 'Created by Amaka',
   generator: 'Custom',
 }
 
